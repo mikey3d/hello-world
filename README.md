@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Folks,
+
+I'm an engineer and web designer. I love playing basketball.
